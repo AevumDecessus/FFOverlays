@@ -1482,8 +1482,8 @@
             "settings": {
                 "active": true,
                 "deactivate_when_not_showing": true,
-                "last_video_device_id": "UVC Camera:\\\\?\\usb#22vid_12d1&pid_4321&mi_00#228&34bbb27&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
-                "video_device_id": "UVC Camera:\\\\?\\usb#22vid_12d1&pid_4321&mi_00#228&34bbb27&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
+                "last_video_device_id": "OBS Virtual Camera:",
+                "video_device_id": "OBS Virtual Camera:"
             },
             "sync": 0,
             "versioned_id": "dshow_input",
